@@ -1,0 +1,9 @@
+[submodule "jdm-expo-config-server"]
+	path = jdm-expo-config-server
+	url = https://github.com/AsanI2003/jdm-expo-config-server.git
+[submodule "jdm-expo-eureka-server"]
+	path = jdm-expo-eureka-server
+	url = https://github.com/AsanI2003/jdm-expo-eureka-server.git
+[submodule "jdm-expo-api-gateway"]
+	path = jdm-expo-api-gateway
+	url = https://github.com/AsanI2003/jdm-expo-api-gateway.git
