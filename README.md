@@ -2,7 +2,7 @@
 Parent repository containing Git submodules for all Spring Cloud microservice platform components (Config Server, Eureka Service Registry, and API Gateway) in the JDM Expo platform.<br> <br>
 * **Student Name:** A.G.Asan Indusara
 * **Student Number:** 241722063
-* **GCP Project ID:** <br> <br>
+* **GCP Project ID:** project-83f3b203-b60d-481d-89d <br> <br>
 From this parent repository, all associated platform submodule repositories are directly navigable 
 ## Submodules Included
 * [`apex-jdm-config-server`](https://github.com/AsanI2003/jdm-expo-config-server)
